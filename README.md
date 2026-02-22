@@ -35,46 +35,11 @@ const alexis = {
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Experiencia y Proyectos
 
-### 🏢 Programador Full Stack @ Locmex (AmericasIoT)
-**Noviembre 2025 - Enero 2026 · 3 meses**
+**18+ meses** de experiencia desarrollando aplicaciones web para empresas como **Locmex (AmericasIoT)**, **CERTEXAI**, y **Universidad Autónoma de Sinaloa**.
 
-- 🔧 Desarrollo y mantenimiento de **aplicaciones web en producción** con funcionalidades en tiempo real
-- 📱 Construcción de **Servi App**: Gestión de servicios móvil con Angular, Ionic y Supabase
-- 🌐 Creación de **Sistema de Gestión de SIMs**: API Backend con Express e integración emnify
-- 🔔 Implementación de **sistemas de notificaciones push** y sincronización de datos en tiempo real
-- 🚀 Despliegue y mantenimiento de sistemas en entornos de producción
-
-### 💻 Desarrollador Full Stack @ CERTEXAI
-**Septiembre 2025 - Noviembre 2025 · 3 meses**
-
-- 🖥️ Desarrollo de **aplicaciones de escritorio** para gestión de documentos con .NET y C#
-- 📊 Creación de herramientas de procesamiento y conversión de PDF con integración SQLite
-- 🏗️ Implementación de arquitectura de software para aplicaciones empresariales
-
-### 🔔 Desarrollador Frontend @ CERTEXAI
-**Septiembre 2025 · 1 mes**
-
-- 📱 Implementación de **sistema de notificaciones push** para institución educativa
-- 🎨 Diseño e implementación de interfaz de usuario para gestión de notificaciones
-- ⚙️ Configuración de Service Workers para manejo de notificaciones en tiempo real
-
-### 📍 Desarrollador Frontend @ CERTEXAI
-**Marzo 2025 - Septiembre 2025 · 7 meses**
-
-- 🗺️ Desarrollo de **aplicación de gestión GPS y usuarios** enfocada en revendedores
-- 📱 Implementación de lector de códigos de barras usando cámara del dispositivo
-- 🔌 Integración y consumo de APIs REST para manejo de datos en tiempo real
-- 💻 Desarrollo bajo arquitectura SPA y PWA para mejorar UX y permitir uso offline
-
-### 🎓 Desarrollador Full Stack @ UAS - Facultad de Informática
-**Agosto 2024 - Marzo 2025 · 8 meses**
-
-- 📄 Construcción del **Sistema de Titulación en Línea** con PHP y MySQL
-- ⚡ Optimización de flujos de trabajo administrativos, reduciendo tiempo de procesamiento manual
-- 🔐 Implementación de sistemas seguros de autenticación y validación de documentos
-- 🏗️ Diseño y desarrollo bajo arquitectura MVC
+📂 **[Ver mi portafolio completo](https://alexisdiaz.nocompila.com.mx)** para conocer todos mis proyectos, experiencia detallada y habilidades técnicas.
 
 ---
 
@@ -123,58 +88,18 @@ Plataforma profesional de creación de CVs con **3 plantillas personalizables**,
 
 - ✅ Frontend: React 18 + TypeScript + Redux Toolkit + Material-UI
 - ✅ Backend: Express + Sequelize + Autenticación JWT + Generación de PDF
-- ✅ Características: PWA, Modo Oscuro/Claro, Dashboard, 33 Categorías de Skills
-- ✅ Seguridad: Helmet, CORS, Rate Limiting, Bcrypt
+- ✅ PWA, Modo Oscuro/Claro, Dashboard, 33 Categorías de Skills
 - 🚀 **Desplegado en producción con PM2**
 
----
-
 ### 🔍 [MediaHunter](https://github.com/maniadiaz/media-hunter)
-**React · TypeScript · Vite · Express · Material-UI · Múltiples APIs**
+**React · TypeScript · Vite · Express · Material-UI · APIs (Pexels, Pixabay, Giphy, Freesound)**
 
-Plataforma de búsqueda y descarga de contenido multimedia integrando **4 APIs gratuitas** (Pexels, Pixabay, Giphy, Freesound).
+Plataforma de búsqueda y descarga de contenido multimedia integrando **4 APIs gratuitas**.
 
 - 🖼️ Búsqueda de imágenes, videos, GIFs y audio desde múltiples fuentes
 - 📥 Descarga directa con múltiples opciones de calidad
-- 💾 Favoritos e historial de búsqueda con localStorage
 - 🌓 Modo oscuro/claro + Bilingüe (ES/EN)
 - 📱 Diseño responsive mobile-first
-
----
-
-### 📱 Servi App
-**Angular · TypeScript · Ionic · Supabase · Notificaciones Push**
-
-Aplicación móvil de gestión de servicios para **AmericasIoT** con capacidades en tiempo real.
-
-- 🔔 Notificaciones push en tiempo real para operaciones de campo
-- 📊 Dashboard de seguimiento y gestión de servicios
-- 🔐 Autenticación y backend con Supabase
-- 📱 Despliegue móvil multiplataforma
-
----
-
-### 🌐 Sistema de Gestión de SIMs
-**React · Express · MariaDB · API emnify**
-
-Sistema completo de gestión de tarjetas SIM integrando con **API de emnify**.
-
-- 🔌 API RESTful backend con Express
-- 📊 Funcionalidad de exportación de datos a Excel
-- 🔐 Control de acceso basado en roles
-- 📈 Monitoreo de estado de SIMs en tiempo real
-
----
-
-### 🎓 Sistema de Titulación en Línea (UAS)
-**PHP · MySQL · Arquitectura MVC**
-
-Sistema de gestión digital para solicitudes de titulación en Universidad Autónoma de Sinaloa.
-
-- 📄 Gestión y validación de documentos
-- ⚡ Optimización de flujo de trabajo (reducción de procesamiento manual)
-- 🔐 Sistema de autenticación seguro
-- 📊 Dashboard administrativo
 
 ---
 
