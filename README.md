@@ -83,25 +83,6 @@ const alexis = {
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<a href="https://github.com/maniadiaz">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maniadiaz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=8b5cf6&text_color=e0e0e0&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maniadiaz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=e0e0e0&langs_count=8"/>
-</a>
-
-<a href="https://github.com/maniadiaz">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maniadiaz&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=8b5cf6&currStreakLabel=667eea"/>
-</a>
-
-</div>
-
----
-
 ## 🎯 En Qué Me Enfoco
 
 ```typescript
