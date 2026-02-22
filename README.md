@@ -37,7 +37,7 @@ const alexis = {
 
 ## 💼 Experiencia y Proyectos
 
-**18+ meses** de experiencia desarrollando aplicaciones web para empresas como **Locmex (AmericasIoT)**, **CERTEXAI**, y **Universidad Autónoma de Sinaloa**.
+**18+ meses** de experiencia desarrollando aplicaciones web para empresas como **Locmex (AmericasIoT)**, **CERTEXAI**, y **Universidad Autónoma de Sinaloa Facultad de Informatica Mazatlán**.
 
 📂 **[Ver mi portafolio completo](https://alexisdiaz.nocompila.com.mx)** para conocer todos mis proyectos, experiencia detallada y habilidades técnicas.
 
